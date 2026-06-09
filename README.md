@@ -7,6 +7,7 @@
 </p>
 
 **Разработчик:** [egorkadaa-dev](https://github.com/egorkadaa-dev)
+[🐞 Сообщить о проблеме](https://github.com/egorkadaa-dev/discord-rpc-new/issues/new?template=bug_report.yml)
 
 Удобное десктопное приложение для управления Discord Rich Presence (RPC).  
 Позволяет настраивать и отображать кастомную активность в Discord.
