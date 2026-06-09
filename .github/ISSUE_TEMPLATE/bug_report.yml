@@ -1,0 +1,33 @@
+name: Сообщить о проблеме / Report a problem
+description: Опишите найденную ошибку или трудность.
+title: "[Проблема]: "
+labels: ["bug", "обращение"]
+body:
+  - type: input
+    id: discord
+    attributes:
+      label: Ваш Discord
+      description: Укажите ваш Discord-тег (например, username#1234), чтобы мы могли с вами связаться при необходимости.
+      placeholder: user#0000
+    validations:
+      required: false
+
+  - type: input
+    id: app_version
+    attributes:
+      label: Какая версия приложения у вас
+      description: Версия программы, в которой наблюдается проблема (см. в настройках или «О программе»).
+      placeholder: 1.2.3
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem_description
+    attributes:
+      label: Подробно опишите проблему
+      description: >
+        Расскажите, что именно происходит не так. 
+        Приложите шаги для воспроизведения, скриншоты или логи, если есть.
+      placeholder: 1. Открыл приложение, 2. Нажал на кнопку X, 3. Увидел ошибку...
+    validations:
+      required: true
