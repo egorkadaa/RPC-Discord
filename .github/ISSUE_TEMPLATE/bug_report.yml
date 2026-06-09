@@ -1,14 +1,14 @@
 name: Сообщить о проблеме / Report a problem
 description: Опишите найденную ошибку или трудность.
 title: "[Проблема]: "
-labels: ["bug", "обращение"]
+labels: ["bug", "question"]
 body:
   - type: input
     id: discord
     attributes:
       label: Ваш Discord
-      description: Укажите ваш Discord-тег (например, username#1234), чтобы мы могли с вами связаться при необходимости.
-      placeholder: user#0000
+      description: Укажите ваш Discord-тег (например, username).
+      placeholder: user
     validations:
       required: false
 
@@ -16,8 +16,8 @@ body:
     id: app_version
     attributes:
       label: Какая версия приложения у вас
-      description: Версия программы, в которой наблюдается проблема (см. в настройках или «О программе»).
-      placeholder: 1.2.3
+      description: Версия программы, в которой наблюдается проблема (см. в настройках).
+      placeholder: v1.2.3
     validations:
       required: true
 
