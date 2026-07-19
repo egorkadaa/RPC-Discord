@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/downloads/egorkadaa/discord-rpc-new/total?style=for-the-badge&logo=github&color=5865F2" alt="Total Downloads" />
   <img src="https://img.shields.io/github/downloads/egorkadaa/discord-rpc-new/latest/total?style=for-the-badge&logo=github&color=3ba55d" alt="Latest Release Downloads" />
-  <img src="https://img.shields.io/github/stars/egorkadaa-dev/discord-rpc-new?style=for-the-badge&logo=github&color=faa61a" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/egorkadaa/discord-rpc-new?style=for-the-badge&logo=github&color=faa61a" alt="Stars" />
 </p>
 
 Удобное десктопное приложение для управления Discord Rich Presence (RPC).  
