@@ -1,9 +1,9 @@
 # RPC Discord 
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/egorkadaa/discord-rpc-new/total?style=for-the-badge&logo=github&color=949494" alt="Total Downloads" />
-  <img src="https://img.shields.io/github/downloads/egorkadaa/discord-rpc-new/latest/total?style=for-the-badge&logo=github&color=949494" alt="Latest Release Downloads" />
-  <img src="https://img.shields.io/github/stars/egorkadaa/discord-rpc-new?style=for-the-badge&logo=github&color=949494" alt="Stars" />
+  <img src="https://img.shields.io/github/downloads/egorkadaa/RPC-Discord/total?style=for-the-badge&logo=github&color=949494" alt="Total Downloads" />
+  <img src="https://img.shields.io/github/downloads/egorkadaa/RPC-Discord/latest/total?style=for-the-badge&logo=github&color=949494" alt="Latest Release Downloads" />
+  <img src="https://img.shields.io/github/stars/egorkadaa/RPC-Discord?style=for-the-badge&logo=github&color=949494" alt="Stars" />
 </p>
 
 Удобное десктопное приложение для управления Discord Rich Presence (RPC).  
@@ -13,7 +13,7 @@
 
 ## Как использовать
 
-1. Скачай последний релиз из [Releases](https://github.com/egorkadaa/discord-rpc-new/releases)
+1. Скачай последний релиз из [Releases](https://github.com/egorkadaa/RPC-Discord/releases)
 2. Установи и запусти
 3. Перейди на [Discord Developer Portal](https://discord.com/developers/applications)
 4. Создай приложение → скопируй **Client ID** (Application ID)
@@ -29,5 +29,5 @@
 
 ---
 
-[🐞 BUG REPORT](https://github.com/egorkadaa/discord-rpc-new/issues/new?template=bug_report.yml)
+[🐞 BUG REPORT](https://github.com/egorkadaa/RPC-Discord/issues/new?template=bug_report.yml)
 
