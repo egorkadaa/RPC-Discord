@@ -1,3 +1,4 @@
+# (TIME IN DEVELOPMENT)
 # Ripcord - RPC Discord 
 
 <p align="center">
