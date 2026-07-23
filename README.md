@@ -1,4 +1,4 @@
-# RPC Discord 
+# Ripcord - RPC Discord 
 
 <p align="center">
   <img src="https://img.shields.io/github/downloads/egorkadaa/RPC-Discord/total?style=for-the-badge&logo=github&color=949494" alt="Total Downloads" />
