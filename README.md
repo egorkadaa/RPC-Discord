@@ -32,5 +32,11 @@ Allows you to configure and display custom activity in Discord.
 
 ---
 
+## ⭐Project support
+
+You can support the project by giving :star: to this repository.
+
+---
+
 [🐞 BUG REPORT](https://github.com/egorkadaa/RPC-Discord/issues/new?template=bug_report.yml)
 
