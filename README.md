@@ -1,4 +1,6 @@
-# (TIME IN DEVELOPMENT)
+> [!Important]
+> ### TIME IN DEVELOPMENT - soon...
+> The program is under development. It will be released soon.
 # Ripcord - RPC Discord 
 
 <p align="center">
@@ -7,26 +9,26 @@
   <img src="https://img.shields.io/github/stars/egorkadaa/RPC-Discord?style=for-the-badge&logo=github&color=949494" alt="Stars" />
 </p>
 
-Удобное десктопное приложение для управления Discord Rich Presence (RPC).  
-Позволяет настраивать и отображать кастомную активность в Discord.
+A convenient desktop application for managing Discord Rich Presence (RPC).  
+Allows you to configure and display custom activity in Discord.
 
 ---
 
-## Как использовать
+## How to use
 
-1. Скачай последний релиз из [Releases](https://github.com/egorkadaa/RPC-Discord/releases)
-2. Установи и запусти
-3. Перейди на [Discord Developer Portal](https://discord.com/developers/applications)
-4. Создай приложение → скопируй **Client ID** (Application ID)
-5. Вставь Client ID в приложение и нажми **«Подключиться»**
-6. Настрой активность в редакторе и нажми **«Применить»**
+1. Download the latest release from [Releases](https://github.com/egorkadaa/RPC-Discord/releases )
+2. Install and launch
+3. Go to [Discord Developer Portal](https://discord.com/developers/applications )
+4. Create an application → copy **Client ID** (Application ID)
+5. Insert the Client ID into the application and click ** "Connect"**
+6. Set up activity in the editor and click **"Apply"**
 
 ---
 
-## Системные требования
+## System requirements
 
 - Windows 10 / 11 (x64)
-- Установленный Discord (настольная версия)
+- Discord installed (desktop version)
 
 ---
 
